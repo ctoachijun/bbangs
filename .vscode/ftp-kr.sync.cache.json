@@ -1,0 +1,37 @@
+{
+  "ftp://bbangs@211.37.173.181": {
+    ".bash_history": {
+      "type": "-",
+      "size": 10,
+      "lmtime": 1691040065524.2734,
+      "modified": false
+    },
+    ".bash_logout": {
+      "type": "-",
+      "size": 18,
+      "lmtime": 1691040065543.117,
+      "modified": false
+    },
+    ".bash_profile": {
+      "type": "-",
+      "size": 193,
+      "lmtime": 1691040065559.6282,
+      "modified": false
+    },
+    ".bashrc": {
+      "type": "-",
+      "size": 231,
+      "lmtime": 1691040065592.642,
+      "modified": true
+    },
+    "public_html": {
+      "test.py": {
+        "type": "-",
+        "size": 39,
+        "lmtime": 1691040065604.6497,
+        "modified": false
+      }
+    }
+  },
+  "$version": 1
+}
